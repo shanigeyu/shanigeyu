@@ -1,102 +1,106 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="酪蛋白 casein · 工业设计 × AI × 内容">
+<sub>**English**　·　[中文](README.zh-CN.md)</sub>
+
+<img src="assets/banner-en.png" width="100%" alt="Casein · Industrial Design × AI × Content">
 
 <br>
 
-**把 AI 从论文和 API 里挖出来，翻译成小店能用的海报、能卖的产品、和普通人能看懂的科普。**
+**I take AI out of papers and API docs and turn it into posters a small shop can actually use, products people pay for, and explanations anyone can follow.**
 
-<sub>山东科技大学 · 工业设计 · 大二　｜　目标出国读研　｜　白天上课，晚上跑模型</sub>
+<sub>Shandong University of Science and Technology · Industrial Design · Sophomore　｜　Preparing for a master's abroad　｜　Class by day, models by night</sub>
 
 <br>
 
-[![私信我](https://img.shields.io/badge/%E7%A7%81%E4%BF%A1-2900198897%40qq.com-1E7F63?style=flat-square&labelColor=12181C&logo=qq&logoColor=white)](mailto:2900198897@qq.com)
-![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-bcybqxz-07C160?style=flat-square&labelColor=12181C&logo=wechat&logoColor=white)
+[![Email me](https://img.shields.io/badge/Email-2900198897%40qq.com-1E7F63?style=flat-square&labelColor=12181C&logo=qq&logoColor=white)](mailto:2900198897@qq.com)
+![WeChat](https://img.shields.io/badge/WeChat-bcybqxz-07C160?style=flat-square&labelColor=12181C&logo=wechat&logoColor=white)
 
 </div>
 
 ---
 
-## 现在在做什么
+## What I'm Doing Now
 
-- **学业为主** — 山东科技大学工业设计大二。课程、作品集、语言成绩一起推进，目标是出国读研。
-- **自学 AI** — 大模型原理、Agent 编排、上下文与工作流、多模态生成。学一点就立刻拿去做成能跑的东西，这也是这个账号存在的理由。
-- **做内容** — B站 / 抖音 AI 知识分享，5,000 粉、5,000 人私域（截至 11 月初）。长期同时跑很多家大模型，因此知道它们各自的脾气。
-- **做产品** — 自研桌面软件 + 小店在售的 AI 相关产品，一边试变现一边踩坑。
+- **School first** — Second-year Industrial Design at SDUST. Coursework, portfolio and language scores all moving at once; the goal is a master's programme abroad.
+- **Teaching myself AI** — How LLMs actually work, agent orchestration, context and workflows, multimodal generation. Everything I learn goes straight into something that runs — that's the whole reason this profile exists.
+- **Making content** — AI explainers on Bilibili and Douyin: 5,000 followers and a 5,000-person private community (as of early November). I run a lot of models side by side, so I know each one's temper.
+- **Shipping products** — A desktop app I built myself, plus AI products sold in my own shop. Learning monetisation the hard way.
 
-> 三件事同时做，所以回复可能慢一点 —— 但每条都会看。
+> Three tracks at once, so replies can be slow — but every message gets read.
 
-## 我能提供什么
+## What I Can Do For You
 
-| 我能做的 | 交付什么 | 适合谁 |
+| What | What you get | Who it's for |
 | --- | --- | --- |
-| 🎨 **小店视觉** | 开业 / 节日 / 套餐 / 外卖平台海报。AIGC 出图打底，手工排版定稿，改到能用为止 | 餐饮、咖啡、花店、美业这类小店主 |
-| 🎵 **专属音乐** | 店铺氛围 BGM、短视频片头音、活动主题小曲，给店或账号做一个"听觉记忆点" | 想让店面或账号有辨识度的人 |
-| 🧩 **轻量软件** | 竞猜预测小程序，以及投票 / 预约 / 打卡一类小工具，可按需求定制 | 想把私域跑起来、又不想买整套大系统的小团队 |
-| 🚀 **FDE / AI 落地** | 把模型接进真实业务流程：Agent、RAG、自动化、内容流水线。实习、兼职、项目制都接 | 想上 AI 但缺人手的团队 |
-| 🧠 **AI 咨询** | 选模型、搭工作流、做内容接单 —— 从"想学"到"能变现"的具体路径 | 想入门，或者想靠 AI 变现的个人 |
+| 🎨 **Shop visuals** | Opening, holiday, set-menu and delivery-platform posters. AI-generated base, hand-laid type, revised until it works | Cafés, restaurants, florists, salons |
+| 🎵 **Custom music** | Ambient BGM, video intros, event jingles — an audio signature for a shop or a channel | Anyone who wants to be remembered by ear |
+| 🧩 **Lightweight software** | Prediction mini-programs plus poll, booking and check-in tools, built to spec | Small teams that need a tool, not an ERP |
+| 🚀 **FDE / AI deployment** | Wiring models into real workflows: agents, RAG, automation, content pipelines. Internships, part-time and project work | Teams that want AI but don't have the hands |
+| 🧠 **AI coaching** | Choosing models, building workflows, getting paid for content — a concrete path from curious to earning | Individuals starting out, or trying to monetise |
 
-<sub>第一次合作不确定要什么？直接说你的场景，我按你的预算给方案，不硬塞。</sub>
+<sub>Not sure what you need? Describe the situation and I'll scope it to your budget — no upsell.</sub>
 
-## 在做的项目
+## Selected Projects
 
-### 🎬 [VAT · AI 自动剪辑软件](https://github.com/shanigeyu/VAT)&emsp;`Python`&ensp;`本地桌面端`
+### 🎬 [VAT · AI video editor](https://github.com/shanigeyu/VAT)&emsp;`Python`&ensp;`Desktop`
 
-一句选题，AI 依次完成策划、文案、分镜、原创动效、配音、字幕和成片。本地工作台，项目只存在自己电脑里，没有服务器、不收集数据、永久免费。模型通道可以接 Codex CLI / DeepSeek Harness / OpenAI 兼容 / Anthropic / Gemini / 本机 Ollama。
+Give it a topic and the AI walks through outline, script, storyboard, original motion graphics, voiceover, subtitles and the finished cut. A local desktop workbench: projects stay on your machine, no server, no data collection, free forever. The model channel accepts Codex CLI / DeepSeek Harness / OpenAI-compatible / Anthropic / Gemini / local Ollama.
 
 ### 🧪 [dark-tech-explainer](https://github.com/shanigeyu/dark-tech-explainer)&emsp;`SKILL`&ensp;`HTML`&ensp;`GSAP`&ensp;`MIT`
 
-一个开箱即用的 skill：用极简暗黑科技视觉做 AI 科普 / 产品解释类视频。近黑背景、单点荧光强调、严格网格、模块化信息卡。`git clone` 进 skill 目录就能开工。
+A drop-in skill for making AI explainer and product videos in a minimal dark-tech visual language: near-black canvas, a single fluorescent accent, strict grid, modular info cards. Clone it into your skills directory and go.
 
-<sub>两个项目都是"我自己要用，于是自己做"的产物 —— 这也是我理解 AI 落地最实在的方式。</sub>
+<sub>Both started as "I need this, so I'll build it" — which is also how I understand AI deployment best.</sub>
 
-## 工具与能力
+## Tools & Skills
 
-- **工程侧** — Python · FFmpeg · Tkinter · HyperFrames
-- **AI 侧** — LLM 应用 · Agent 编排 · RAG · AIGC 生图与配音 · 提示词工程
-- **内容侧** — 视觉设计 · 短视频运营
+- **Engineering** — Python · FFmpeg · Tkinter · HyperFrames
+- **AI** — LLM applications · agent orchestration · RAG · AIGC image & voice · prompt engineering
+- **Content** — visual design · short-form video operations
 
-## 证书与奖项
+## Awards & Certifications
 
-**AI 与算法**
+**AI & Algorithms**
 
-- 人工智能训练师（三级）
-- 人工智能算法精英大赛 · 省三等奖
+- AI Trainer (Level 3)
+- AI Algorithm Elite Competition · Provincial 3rd Prize
 
-**设计与艺术**
+**Design & Art**
 
-- 蓝桥杯 · 视觉设计 · 省三等奖
-- 大学生数媒赛 · AIGC 方向 · 省二等奖
-- 北美环境保护艺术创作赛 · 银奖
-- 日本 CADA · 铜奖
+- Lanqiao Cup · Visual Design · Provincial 3rd Prize
+- College Digital Media Competition · AIGC track · Provincial 2nd Prize
+- North American Environmental Protection Art Competition · Silver
+- Japan CADA · Bronze
 
-**跨界资质**
+**Cross-field credentials**
 
-- 心理咨询师专业技能培训（三级）
-- 全媒体运营师
-- 陪诊师
+- Psychological Counselling Professional Training (Level 3)
+- All-Media Operations Specialist
+- Medical Companion (patient escort)
 
-<sub>跨度是有点大，但每一张都认真考的。</sub>
+<sub>The range is wide, but each one was actually earned.</sub>
 
-## 长期胃口 · 欢迎来聊
+## Long-Term Interests · Say Hi
 
-- **人文社科** — 心理学 · 社会学 · 脑科学 · 传播学
-- **钱与局势** — 投资 · 金融 · 货币政策 · 科技 · 国际形势与政策
-- **身体** — 运动科学 · 营养学 · 运动康复
+- **People & minds** — psychology · sociology · neuroscience · communication
+- **Money & the world** — investing · finance · monetary policy · technology · international affairs
+- **The body** — sports science · nutrition · sports rehab
 
-<sub>不是书单，是已经在做的事：投资跑了 1 年，健身 7 个月。如果你在这些方向上踩过坑，欢迎把坑说给我听。</sub>
+<sub>Not a reading list — things I already do: one year investing, seven months training. If you've already hit the walls in any of these, I'd like to hear about them.</sub>
 
-## 找我
+## Get In Touch
 
-**合作、咨询、交个朋友，都走邮箱 —— 比平台私信快得多：**
+**Work, questions, or just to talk — email reaches me fastest:**
 
 📮 **[2900198897@qq.com](mailto:2900198897@qq.com)**
 
-💬 微信 **`bcybqxz`**　— 加好友请写明来意，不然容易被埋掉
+💬 WeChat **`bcybqxz`** — say who you are, or the request gets buried
 
-<sub>写清楚这三件事，回复会快很多：<b>想做什么</b> · <b>什么时候要</b> · <b>预算或合作方式</b>。</sub>
+**Elsewhere**　[Bilibili](https://space.bilibili.com/508624051)　·　Douyin `yuruecheng40`
+
+<sub>Three things make a reply fast: <b>what you want</b> · <b>when you need it</b> · <b>budget or scope</b>.</sub>
 
 <div align="center">
 <br>
-<sub>最后更新 · 2026.11</sub>
+<sub>Last updated · Nov 2026</sub>
 </div>
