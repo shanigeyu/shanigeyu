@@ -1,0 +1,5 @@
+# 本地预览产物（不发布）
+preview-*.html
+shot-*.png
+final-*.png
+build_preview.py
