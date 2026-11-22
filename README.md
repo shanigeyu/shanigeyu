@@ -4,10 +4,6 @@
 
 <img src="assets/banner-en.png" width="100%" alt="Casein · Industrial Design × AI × Content">
 
-<br>
-
-**I take AI out of papers and API docs and turn it into posters a small shop can actually use, products people pay for, and explanations anyone can follow.**
-
 <sub>Shandong University of Science and Technology · Industrial Design · Sophomore　｜　Preparing for a master's abroad　｜　Class by day, models by night</sub>
 
 <br>
@@ -24,7 +20,7 @@
 - **School first** — Second-year Industrial Design at SDUST. Coursework, portfolio and language scores all moving at once; the goal is a master's programme abroad.
 - **Teaching myself AI** — How LLMs actually work, agent orchestration, context and workflows, multimodal generation. Everything I learn goes straight into something that runs — that's the whole reason this profile exists.
 - **Making content** — AI explainers on Bilibili and Douyin: 5,000 followers and a 5,000-person private community (as of early November). I run a lot of models side by side, so I know each one's temper.
-- **Shipping products** — A desktop app I built myself, plus AI products sold in my own shop. Learning monetisation the hard way.
+- **Shipping products** — A desktop app I built myself, plus AI products of my own. Learning monetisation the hard way.
 
 > Three tracks at once, so replies can be slow — but every message gets read.
 
@@ -32,8 +28,8 @@
 
 | What | What you get | Who it's for |
 | --- | --- | --- |
-| 🎨 **Shop visuals** | Opening, holiday, set-menu and delivery-platform posters. AI-generated base, hand-laid type, revised until it works | Cafés, restaurants, florists, salons |
-| 🎵 **Custom music** | Ambient BGM, video intros, event jingles — an audio signature for a shop or a channel | Anyone who wants to be remembered by ear |
+| 🎨 **Posters & covers** | Campaign and promo posters, video covers and layout design. AI-generated base, hand-laid type, revised until it works | Accounts, events and teams that need promo material |
+| 🎵 **Custom music** | Ambient BGM, video intros, event jingles — an audio signature for a body of content | Anyone who wants their content to be recognised by ear |
 | 🧩 **Lightweight software** | Prediction mini-programs plus poll, booking and check-in tools, built to spec | Small teams that need a tool, not an ERP |
 | 🚀 **FDE / AI deployment** | Wiring models into real workflows: agents, RAG, automation, content pipelines. Internships, part-time and project work | Teams that want AI but don't have the hands |
 | 🧠 **AI coaching** | Choosing models, building workflows, getting paid for content — a concrete path from curious to earning | Individuals starting out, or trying to monetise |
@@ -49,8 +45,6 @@ Give it a topic and the AI walks through outline, script, storyboard, original m
 ### 🧪 [dark-tech-explainer](https://github.com/shanigeyu/dark-tech-explainer)&emsp;`SKILL`&ensp;`HTML`&ensp;`GSAP`&ensp;`MIT`
 
 A drop-in skill for making AI explainer and product videos in a minimal dark-tech visual language: near-black canvas, a single fluorescent accent, strict grid, modular info cards. Clone it into your skills directory and go.
-
-<sub>Both started as "I need this, so I'll build it" — which is also how I understand AI deployment best.</sub>
 
 ## Tools & Skills
 
