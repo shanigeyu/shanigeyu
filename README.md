@@ -24,18 +24,6 @@
 
 > Three tracks at once, so replies can be slow — but every message gets read.
 
-## What I Can Do For You
-
-| What | What you get | Who it's for |
-| --- | --- | --- |
-| 🎨 **Posters & covers** | Campaign and promo posters, video covers and layout design. AI-generated base, hand-laid type, revised until it works | Accounts, events and teams that need promo material |
-| 🎵 **Custom music** | Ambient BGM, video intros, event jingles — an audio signature for a body of content | Anyone who wants their content to be recognised by ear |
-| 🧩 **Lightweight software** | Prediction mini-programs plus poll, booking and check-in tools, built to spec | Small teams that need a tool, not an ERP |
-| 🚀 **FDE / AI deployment** | Wiring models into real workflows: agents, RAG, automation, content pipelines. Internships, part-time and project work | Teams that want AI but don't have the hands |
-| 🧠 **AI coaching** | Choosing models, building workflows, getting paid for content — a concrete path from curious to earning | Individuals starting out, or trying to monetise |
-
-<sub>Not sure what you need? Describe the situation and I'll scope it to your budget — no upsell.</sub>
-
 ## Selected Projects
 
 ### 🎬 [VAT · AI video editor](https://github.com/shanigeyu/VAT)&emsp;`Python`&ensp;`Desktop`
@@ -45,6 +33,10 @@ Give it a topic and the AI walks through outline, script, storyboard, original m
 ### 🧪 [dark-tech-explainer](https://github.com/shanigeyu/dark-tech-explainer)&emsp;`SKILL`&ensp;`HTML`&ensp;`GSAP`&ensp;`MIT`
 
 A drop-in skill for making AI explainer and product videos in a minimal dark-tech visual language: near-black canvas, a single fluorescent accent, strict grid, modular info cards. Clone it into your skills directory and go.
+
+### 🔒 Claude-based closed-source project&emsp;`In development`
+
+A closed-source project built on Claude, currently in development. Details stay private for now.
 
 ## Tools & Skills
 
